@@ -1,4 +1,11 @@
 # FoodBank
+Introduction
+``````````````````````````````````````````````````````````````````````````````````````````````````````````
+Every day, plenty of food is wasted. On the other hand, many people still suffer from starving. Food bank does help solve this problem.
+However, there are lots of food banks nationwide. How to find a proper food bank with certain food you are looking for, or if it is worth for your donation, or if it will give you a better volunteer experience? 
+Food banks are also seeking a way to better help/serve people. How can they do this?
+Our system is going to solve these problems.
+```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 Use Cases<br />
 `````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 (1)Apply volunteer job: customer register -> customer login -> go to volunteer panel -> find food bank -> view food bank details -> view volunteer job list -> view job details -> click apply<br />
