@@ -1,4 +1,4 @@
-# FoodBank
+# Food Bank Searching System
 Introduction
 ``````````````````````````````````````````````````````````````````````````````````````````````````````````
 Every day, plenty of food is wasted. On the other hand, many people still suffer from starving. Food bank does help solve this problem.
